@@ -6,7 +6,7 @@
 
 项目列表：
 
-* Bert_test_MASK.ipynb：
+(1) Bert_test_MASK.ipynb：
 
 > 一个简单的bert测试（测试Mask功能）
 
@@ -14,14 +14,14 @@
 
 
 
-* Bert_真假新闻分类.ipynb：
+(2) Bert_真假新闻分类.ipynb：
 
 > 数据来源：kaggle。
 
 > 一个基于bert真假新闻分类（多分类），使用transformers库中bert。
 
 
-* bert命名实体识别.ipynb：
+(3) bert命名实体识别.ipynb：
 
 > 数据来源：CLUE（细粒度NER任务）
 
@@ -30,7 +30,7 @@
 > 测试分数：f1.
 
 
-* bert+textcnn:文本分类任务:
+(4) bert+textcnn:文本分类任务:
 
 > 一个基于bert+textcnn的文本分类任务
 
