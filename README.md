@@ -54,3 +54,11 @@
 > 一个基于bert+textcnn的文本分类任务
 
 
+#### (6) [bert+mrc+crf:命名实体识别:](https://github.com/cshmzin/nlp-code/blob/main/Bert_mrc_crf%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.ipynb])
+> 数据来源：CLUE（细粒度NER任务）
+
+> 一个基于bert的ner任务（4个标签），使用transformers中的bert,并构建模型bert-mrc-crf。。
+
+> 测试分数：f1.
+
+
