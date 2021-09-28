@@ -23,14 +23,14 @@
 
 
 
-#### (2) [Bert_真假新闻分类.ipynb：](https://github.com/cshmzin/nlp-code/blob/main/Bert_真假新闻分类.ipynb])
+#### (2) [Bert_真假新闻分类.ipynb：](https://github.com/cshmzin/nlp-code/blob/main/Bert_真假新闻分类.ipynb)
 
 > 数据来源：kaggle。
 
 > 一个基于bert真假新闻分类（多分类），使用transformers库中bert。
 
 
-#### (3) [bert命名实体识别.ipynb：](https://github.com/cshmzin/nlp-code/blob/main/bert命名实体识别.ipynb])
+#### (3) [bert命名实体识别.ipynb：](https://github.com/cshmzin/nlp-code/blob/main/bert命名实体识别.ipynb)
 
 > 数据来源：CLUE（细粒度NER任务）
 
@@ -38,7 +38,7 @@
 
 > 测试分数：f1.
 
-#### (4) [Bert-lstm-crf命名实体识别.ipynb：](https://github.com/cshmzin/nlp-code/blob/main/Bert-lstm-crf命名实体识别.ipynb])
+#### (4) [Bert-lstm-crf命名实体识别.ipynb：](https://github.com/cshmzin/nlp-code/blob/main/Bert-lstm-crf命名实体识别.ipynb)
 
 > 数据来源：CLUE（细粒度NER任务）
 
@@ -47,12 +47,12 @@
 > 测试分数：f1.
 
 
-#### (5) [bert+textcnn:文本分类任务:](https://github.com/cshmzin/nlp-code/tree/main/TextClassifier-main])
+#### (5) [bert+textcnn:文本分类任务:](https://github.com/cshmzin/nlp-code/tree/main/TextClassifier-main)
 
 > 一个基于bert+textcnn的文本分类任务
 
 
-#### (6) [bert+mrc+crf:命名实体识别:](https://github.com/cshmzin/nlp-code/blob/main/Bert_mrc_crf命名实体识别.ipynb])
+#### (6) [bert+mrc+crf:命名实体识别:](https://github.com/cshmzin/nlp-code/blob/main/Bert_mrc_crf命名实体识别.ipynb)
 > 数据来源：CLUE（细粒度NER任务）
 
 > 一个基于bert的ner任务（4个标签），使用transformers中的bert,并构建模型bert-mrc-crf。。
